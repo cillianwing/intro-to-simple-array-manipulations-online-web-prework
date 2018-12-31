@@ -35,5 +35,5 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
-  
-authenticate_or_request_with_http_digest
+  flatten_array = array.flatten
+end
